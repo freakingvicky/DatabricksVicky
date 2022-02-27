@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-adf-vicky",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12f2cde2-d549-4c08-91f2-6d849fb159b2",
+		"tenantId": "35fcfab3-17a0-40c3-bfd6-933765f5cab6"
+	}
+}
